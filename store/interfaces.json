@@ -1,0 +1,6 @@
+{
+  "sizechartmodal": {
+    "component": "SizeChartModal",
+    "composition": "children"
+  }
+}
